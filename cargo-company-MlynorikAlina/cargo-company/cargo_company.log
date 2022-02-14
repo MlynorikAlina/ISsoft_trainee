@@ -1,0 +1,1155 @@
+28.09.2021 11:40:24 [DEBUG]  b.i.d.train.Train 
+
+creating train f92a4989-fcd2-42a4-805a-adb4fb57b76f-------------------
+28.09.2021 11:40:24 [DEBUG]  b.i.d.train.Train adding carriage to train f92a4989-fcd2-42a4-805a-adb4fb57b76f
+28.09.2021 11:40:24 [DEBUG]  b.i.d.train.Train adding carriage to train f92a4989-fcd2-42a4-805a-adb4fb57b76f
+28.09.2021 11:40:24 [DEBUG]  b.i.d.train.Train adding carriage to train f92a4989-fcd2-42a4-805a-adb4fb57b76f
+28.09.2021 11:40:24 [DEBUG]  b.i.d.train.Train validate train f92a4989-fcd2-42a4-805a-adb4fb57b76f
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding passenger v p to train f92a4989-fcd2-42a4-805a-adb4fb57b76f
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train c1cdcd77-6f24-4ead-a40e-031efb895307-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train c1cdcd77-6f24-4ead-a40e-031efb895307
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train c1cdcd77-6f24-4ead-a40e-031efb895307
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train c1cdcd77-6f24-4ead-a40e-031efb895307
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train c1cdcd77-6f24-4ead-a40e-031efb895307
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 359e9dea-d435-416d-87e6-4a1640aa1158-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 359e9dea-d435-416d-87e6-4a1640aa1158
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 359e9dea-d435-416d-87e6-4a1640aa1158
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 359e9dea-d435-416d-87e6-4a1640aa1158
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 359e9dea-d435-416d-87e6-4a1640aa1158
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo e68a436d-5cf2-4166-b80b-52504ae611ff to train 359e9dea-d435-416d-87e6-4a1640aa1158
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo c82553ee-1530-41bd-b945-e1220f728365 to train 359e9dea-d435-416d-87e6-4a1640aa1158
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 1dc6e371-db11-43de-9c08-00795cfb100a-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 1dc6e371-db11-43de-9c08-00795cfb100a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 1dc6e371-db11-43de-9c08-00795cfb100a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 1dc6e371-db11-43de-9c08-00795cfb100a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 1dc6e371-db11-43de-9c08-00795cfb100a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo 7f9102fb-ba5c-40cd-ab0a-57b515bf07a2 to train 1dc6e371-db11-43de-9c08-00795cfb100a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train b5aed869-fac8-4b96-af66-5d6a9346665a-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train b5aed869-fac8-4b96-af66-5d6a9346665a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train b5aed869-fac8-4b96-af66-5d6a9346665a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train b5aed869-fac8-4b96-af66-5d6a9346665a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 3e558927-fcce-483f-91bb-e8a29c7f0103-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 3e558927-fcce-483f-91bb-e8a29c7f0103
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 3e558927-fcce-483f-91bb-e8a29c7f0103
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 3e558927-fcce-483f-91bb-e8a29c7f0103
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 3e558927-fcce-483f-91bb-e8a29c7f0103
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train bfc73516-1b73-470c-8f27-9fdc2d721333-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train bfc73516-1b73-470c-8f27-9fdc2d721333
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train bfc73516-1b73-470c-8f27-9fdc2d721333
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train bfc73516-1b73-470c-8f27-9fdc2d721333
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train bfc73516-1b73-470c-8f27-9fdc2d721333
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 0db786a0-1e49-41dd-87d9-131b3925dea6-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 0db786a0-1e49-41dd-87d9-131b3925dea6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 0db786a0-1e49-41dd-87d9-131b3925dea6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 0db786a0-1e49-41dd-87d9-131b3925dea6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 0db786a0-1e49-41dd-87d9-131b3925dea6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo df75fb02-fe9e-470d-94c6-44d03da73c3a to train 0db786a0-1e49-41dd-87d9-131b3925dea6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo f5d099c2-10e9-40bb-af52-c15d0052998d to train 0db786a0-1e49-41dd-87d9-131b3925dea6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 20a99039-e790-4405-bf95-189b228387e4-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 20a99039-e790-4405-bf95-189b228387e4
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 20a99039-e790-4405-bf95-189b228387e4
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 20a99039-e790-4405-bf95-189b228387e4
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 9bc8c67b-759e-46c4-9de6-c4e5e26d5f9e-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 9bc8c67b-759e-46c4-9de6-c4e5e26d5f9e
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 9bc8c67b-759e-46c4-9de6-c4e5e26d5f9e
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 9bc8c67b-759e-46c4-9de6-c4e5e26d5f9e
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 9bc8c67b-759e-46c4-9de6-c4e5e26d5f9e
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train a5fd211b-ee58-4aef-b45f-a3a74bc26e38-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train a5fd211b-ee58-4aef-b45f-a3a74bc26e38
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 05a508c2-18e3-4568-94f0-fa653789aef6-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 05a508c2-18e3-4568-94f0-fa653789aef6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 05a508c2-18e3-4568-94f0-fa653789aef6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 05a508c2-18e3-4568-94f0-fa653789aef6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 05a508c2-18e3-4568-94f0-fa653789aef6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo 4ced5d94-859a-4acf-9a20-ce50f5e40207 to train 05a508c2-18e3-4568-94f0-fa653789aef6
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 889b259d-ce40-4f8b-820b-4d5ec252b043-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 889b259d-ce40-4f8b-820b-4d5ec252b043
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 889b259d-ce40-4f8b-820b-4d5ec252b043
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 889b259d-ce40-4f8b-820b-4d5ec252b043
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 889b259d-ce40-4f8b-820b-4d5ec252b043
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo 7b56db4f-2b87-44fb-b58a-0ce4678ff2dd to train 889b259d-ce40-4f8b-820b-4d5ec252b043
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 69277760-8c60-4229-96b7-647223ca0b9a-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 69277760-8c60-4229-96b7-647223ca0b9a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 69277760-8c60-4229-96b7-647223ca0b9a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 69277760-8c60-4229-96b7-647223ca0b9a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 69277760-8c60-4229-96b7-647223ca0b9a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding cargo 633b032b-2bc9-4eb3-a3f0-477cc4441089 to train 69277760-8c60-4229-96b7-647223ca0b9a
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train f1999790-0b3e-4f63-a2fe-2b235743cf1c-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train f1999790-0b3e-4f63-a2fe-2b235743cf1c
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train f1999790-0b3e-4f63-a2fe-2b235743cf1c
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train f1999790-0b3e-4f63-a2fe-2b235743cf1c
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train f1999790-0b3e-4f63-a2fe-2b235743cf1c
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding passenger v p to train f1999790-0b3e-4f63-a2fe-2b235743cf1c
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 2b9a1d0a-a403-4743-b290-60126fb8f716-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 2b9a1d0a-a403-4743-b290-60126fb8f716
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 2b9a1d0a-a403-4743-b290-60126fb8f716
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 2b9a1d0a-a403-4743-b290-60126fb8f716
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 2b9a1d0a-a403-4743-b290-60126fb8f716
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding passenger v p to train 2b9a1d0a-a403-4743-b290-60126fb8f716
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 753164bb-64cd-42fe-ac3e-25a68d02f1c0-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 753164bb-64cd-42fe-ac3e-25a68d02f1c0
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 753164bb-64cd-42fe-ac3e-25a68d02f1c0
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 753164bb-64cd-42fe-ac3e-25a68d02f1c0
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train validate train 753164bb-64cd-42fe-ac3e-25a68d02f1c0
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train c5aeb503-5e5e-4801-83c0-25c7ec8b7550-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train c5aeb503-5e5e-4801-83c0-25c7ec8b7550
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train c5aeb503-5e5e-4801-83c0-25c7ec8b7550
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train c5aeb503-5e5e-4801-83c0-25c7ec8b7550
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train ab77c6a5-9e28-4ae6-a923-675408864feb-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train ab77c6a5-9e28-4ae6-a923-675408864feb
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train 
+
+creating train 0c5ebe8e-fea4-45f0-a303-36cef87c42c4-------------------
+28.09.2021 11:40:25 [DEBUG]  b.i.d.train.Train adding carriage to train 0c5ebe8e-fea4-45f0-a303-36cef87c42c4
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 28d715eb-9121-44cc-b697-f2bd7499122a
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 28d715eb-9121-44cc-b697-f2bd7499122a
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 28d715eb-9121-44cc-b697-f2bd7499122a
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 28d715eb-9121-44cc-b697-f2bd7499122a
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train 28d715eb-9121-44cc-b697-f2bd7499122a
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding passenger v p to train 28d715eb-9121-44cc-b697-f2bd7499122a
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train d0d96c6b-d7da-48df-87f4-123137ce90b0
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train d0d96c6b-d7da-48df-87f4-123137ce90b0
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train d0d96c6b-d7da-48df-87f4-123137ce90b0
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train d0d96c6b-d7da-48df-87f4-123137ce90b0
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train d0d96c6b-d7da-48df-87f4-123137ce90b0
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train a49988ae-ddea-4e7e-ab2c-c2aa12db56e8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a49988ae-ddea-4e7e-ab2c-c2aa12db56e8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a49988ae-ddea-4e7e-ab2c-c2aa12db56e8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a49988ae-ddea-4e7e-ab2c-c2aa12db56e8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train a49988ae-ddea-4e7e-ab2c-c2aa12db56e8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo 46f00eed-248b-429d-8bb7-e0b57ee4bb33 to train a49988ae-ddea-4e7e-ab2c-c2aa12db56e8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo 7001c549-71ec-4fa5-9db4-3beea71b541b to train a49988ae-ddea-4e7e-ab2c-c2aa12db56e8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train bac7cbac-81fa-4f54-8641-0b8634f3604b
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train bac7cbac-81fa-4f54-8641-0b8634f3604b
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train bac7cbac-81fa-4f54-8641-0b8634f3604b
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train bac7cbac-81fa-4f54-8641-0b8634f3604b
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train bac7cbac-81fa-4f54-8641-0b8634f3604b
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo 711c281b-b2cd-49f2-9c4a-43ea62f6b056 to train bac7cbac-81fa-4f54-8641-0b8634f3604b
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train cdfb38d7-39c0-44ef-b719-ca5f877bb720
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train cdfb38d7-39c0-44ef-b719-ca5f877bb720
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train cdfb38d7-39c0-44ef-b719-ca5f877bb720
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train cdfb38d7-39c0-44ef-b719-ca5f877bb720
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 7a13264c-b492-4070-bc68-d1c7d82e66fe
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 7a13264c-b492-4070-bc68-d1c7d82e66fe
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 7a13264c-b492-4070-bc68-d1c7d82e66fe
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 7a13264c-b492-4070-bc68-d1c7d82e66fe
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train 7a13264c-b492-4070-bc68-d1c7d82e66fe
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train f16a9d26-82f5-4d42-8a11-0ac57a5501d4
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train f16a9d26-82f5-4d42-8a11-0ac57a5501d4
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train f16a9d26-82f5-4d42-8a11-0ac57a5501d4
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train f16a9d26-82f5-4d42-8a11-0ac57a5501d4
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train f16a9d26-82f5-4d42-8a11-0ac57a5501d4
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 25f9526e-9c04-4180-9aac-fce3d3db1b26
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 25f9526e-9c04-4180-9aac-fce3d3db1b26
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 25f9526e-9c04-4180-9aac-fce3d3db1b26
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 25f9526e-9c04-4180-9aac-fce3d3db1b26
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train 25f9526e-9c04-4180-9aac-fce3d3db1b26
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo 228af4f3-dee7-4cff-a99a-c4b9c319840e to train 25f9526e-9c04-4180-9aac-fce3d3db1b26
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo f9edeee9-8aa0-4de5-9a93-856303949112 to train 25f9526e-9c04-4180-9aac-fce3d3db1b26
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 4f6402bd-f285-475f-8de6-0ed386493288
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 4f6402bd-f285-475f-8de6-0ed386493288
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 4f6402bd-f285-475f-8de6-0ed386493288
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 4f6402bd-f285-475f-8de6-0ed386493288
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train a02d4d2e-ba83-4c4d-a7c8-aaec5476ce84
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a02d4d2e-ba83-4c4d-a7c8-aaec5476ce84
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a02d4d2e-ba83-4c4d-a7c8-aaec5476ce84
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a02d4d2e-ba83-4c4d-a7c8-aaec5476ce84
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train a02d4d2e-ba83-4c4d-a7c8-aaec5476ce84
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train dee0d7ac-2752-4243-83b4-dc8268172493
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train dee0d7ac-2752-4243-83b4-dc8268172493
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train f636f969-8097-46ae-a34e-b16bd64a5d4d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train f636f969-8097-46ae-a34e-b16bd64a5d4d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train f636f969-8097-46ae-a34e-b16bd64a5d4d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train f636f969-8097-46ae-a34e-b16bd64a5d4d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train f636f969-8097-46ae-a34e-b16bd64a5d4d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo dc70b3ae-20d7-452c-a521-52b0a343fbc6 to train f636f969-8097-46ae-a34e-b16bd64a5d4d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 2a3ed7e8-86fa-4175-9722-1c50dfb85489
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 2a3ed7e8-86fa-4175-9722-1c50dfb85489
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 2a3ed7e8-86fa-4175-9722-1c50dfb85489
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 2a3ed7e8-86fa-4175-9722-1c50dfb85489
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train 2a3ed7e8-86fa-4175-9722-1c50dfb85489
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo 25880e01-be74-46be-a9db-e8209d94e885 to train 2a3ed7e8-86fa-4175-9722-1c50dfb85489
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train a861d84f-0fe7-4b9e-a957-2dd22c7fd1a1
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a861d84f-0fe7-4b9e-a957-2dd22c7fd1a1
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a861d84f-0fe7-4b9e-a957-2dd22c7fd1a1
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a861d84f-0fe7-4b9e-a957-2dd22c7fd1a1
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train a861d84f-0fe7-4b9e-a957-2dd22c7fd1a1
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding cargo 970e35e0-17e7-4e20-a0db-cc41dff7f8ab to train a861d84f-0fe7-4b9e-a957-2dd22c7fd1a1
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 5fae1c8b-f999-4b7e-a98b-d49afe9debe8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 5fae1c8b-f999-4b7e-a98b-d49afe9debe8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 5fae1c8b-f999-4b7e-a98b-d49afe9debe8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 5fae1c8b-f999-4b7e-a98b-d49afe9debe8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train 5fae1c8b-f999-4b7e-a98b-d49afe9debe8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding passenger v p to train 5fae1c8b-f999-4b7e-a98b-d49afe9debe8
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 6a509f27-eddd-4267-a091-9981788316a3
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 6a509f27-eddd-4267-a091-9981788316a3
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 6a509f27-eddd-4267-a091-9981788316a3
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 6a509f27-eddd-4267-a091-9981788316a3
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train 6a509f27-eddd-4267-a091-9981788316a3
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding passenger v p to train 6a509f27-eddd-4267-a091-9981788316a3
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train 3ee135a8-b8c5-41d5-abb3-53509b6fe42d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 3ee135a8-b8c5-41d5-abb3-53509b6fe42d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 3ee135a8-b8c5-41d5-abb3-53509b6fe42d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train 3ee135a8-b8c5-41d5-abb3-53509b6fe42d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train validate train 3ee135a8-b8c5-41d5-abb3-53509b6fe42d
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train e55b866f-a395-413b-88b1-e410da110d51
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train e55b866f-a395-413b-88b1-e410da110d51
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train e55b866f-a395-413b-88b1-e410da110d51
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train e55b866f-a395-413b-88b1-e410da110d51
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train f7546821-1362-4e44-a27e-7641381cbaa2
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train f7546821-1362-4e44-a27e-7641381cbaa2
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train -------------------
+creating train a81846ec-e01d-4950-a5ff-ec6582e79297
+28.09.2021 11:43:28 [DEBUG]  b.i.d.train.Train adding carriage to train a81846ec-e01d-4950-a5ff-ec6582e79297
+28.09.2021 11:50:42 [INFO ]  b.i.d.d.TestLoggerData by.issoft.domain.train.TrainTest@57f791c6
+28.09.2021 11:50:43 [DEBUG]  b.i.d.train.Train -------------------
+creating train 70b83728-8015-484c-82d2-b06d1e600c3c
+28.09.2021 11:50:43 [DEBUG]  b.i.d.train.Train adding carriage to train 70b83728-8015-484c-82d2-b06d1e600c3c
+28.09.2021 11:52:09 [INFO ]  b.i.d.d.TestLoggerData class by.issoft.domain.train.TrainTest addCarriage_null
+28.09.2021 11:52:09 [DEBUG]  b.i.d.train.Train -------------------
+creating train 3ca761b4-90ff-497a-baee-8a40e636a1ae
+28.09.2021 11:52:09 [DEBUG]  b.i.d.train.Train adding carriage to train 3ca761b4-90ff-497a-baee-8a40e636a1ae
+28.09.2021 11:52:58 [INFO ]  b.i.d.d.TestLoggerData by.issoft.domain.train.TrainTest@57f791c6
+28.09.2021 11:52:58 [DEBUG]  b.i.d.train.Train -------------------
+creating train caf8d078-dea6-4987-ae2f-7d3a4ae56a2b
+28.09.2021 11:52:58 [DEBUG]  b.i.d.train.Train adding carriage to train caf8d078-dea6-4987-ae2f-7d3a4ae56a2b
+28.09.2021 12:03:17 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_noPassengerCarriage
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train b448ad4a-edc1-440a-80d1-9292419a8294
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train b448ad4a-edc1-440a-80d1-9292419a8294
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train b448ad4a-edc1-440a-80d1-9292419a8294
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train b448ad4a-edc1-440a-80d1-9292419a8294
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train b448ad4a-edc1-440a-80d1-9292419a8294
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData getPassenger method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding passenger v p to train b448ad4a-edc1-440a-80d1-9292419a8294
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_null
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 26efd03a-72ea-4b0a-af17-ed1b1e0347a6
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 26efd03a-72ea-4b0a-af17-ed1b1e0347a6
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 26efd03a-72ea-4b0a-af17-ed1b1e0347a6
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 26efd03a-72ea-4b0a-af17-ed1b1e0347a6
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 26efd03a-72ea-4b0a-af17-ed1b1e0347a6
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_ListSuccess
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 5df7275e-704a-460b-8af2-0fc37b1ec237
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 5df7275e-704a-460b-8af2-0fc37b1ec237
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 5df7275e-704a-460b-8af2-0fc37b1ec237
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 5df7275e-704a-460b-8af2-0fc37b1ec237
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 5df7275e-704a-460b-8af2-0fc37b1ec237
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo b44b9b25-5a01-4f47-90c1-bc6ffe7f77f3 to train 5df7275e-704a-460b-8af2-0fc37b1ec237
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo 8d124244-a8d8-450e-8cb1-e298e465923c to train 5df7275e-704a-460b-8af2-0fc37b1ec237
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_heavyCargo
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 31bb4b01-8aed-4751-9717-83c208eb4813
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 31bb4b01-8aed-4751-9717-83c208eb4813
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 31bb4b01-8aed-4751-9717-83c208eb4813
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 31bb4b01-8aed-4751-9717-83c208eb4813
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 31bb4b01-8aed-4751-9717-83c208eb4813
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo c2d0e079-e1b4-4cf3-986d-9963d0e98302 to train 31bb4b01-8aed-4751-9717-83c208eb4813
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_noLocomotive
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train bae20dd7-2c0b-4043-9e18-e4fa2682f958
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train bae20dd7-2c0b-4043-9e18-e4fa2682f958
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train bae20dd7-2c0b-4043-9e18-e4fa2682f958
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train bae20dd7-2c0b-4043-9e18-e4fa2682f958
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheHead
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train d7a24773-84de-4d9f-94bd-a6de5ab469a2
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train d7a24773-84de-4d9f-94bd-a6de5ab469a2
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train d7a24773-84de-4d9f-94bd-a6de5ab469a2
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train d7a24773-84de-4d9f-94bd-a6de5ab469a2
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train d7a24773-84de-4d9f-94bd-a6de5ab469a2
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheTail
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 65d3840e-1606-41c9-9d5a-6716ebfdf3d4
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 65d3840e-1606-41c9-9d5a-6716ebfdf3d4
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 65d3840e-1606-41c9-9d5a-6716ebfdf3d4
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 65d3840e-1606-41c9-9d5a-6716ebfdf3d4
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 65d3840e-1606-41c9-9d5a-6716ebfdf3d4
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_ListFail
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 23934660-7681-40b9-9628-9a919285491a
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 23934660-7681-40b9-9628-9a919285491a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 23934660-7681-40b9-9628-9a919285491a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 23934660-7681-40b9-9628-9a919285491a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 23934660-7681-40b9-9628-9a919285491a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo 0bb56ac9-273e-4afe-b341-8c169ac475a2 to train 23934660-7681-40b9-9628-9a919285491a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo bf613fb1-eb93-4cea-bfe6-d83a1e3c4411 to train 23934660-7681-40b9-9628-9a919285491a
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_notEmptyTrain
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 963c86d0-f093-4910-8e06-803c5434c3a6
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 963c86d0-f093-4910-8e06-803c5434c3a6
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 963c86d0-f093-4910-8e06-803c5434c3a6
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 963c86d0-f093-4910-8e06-803c5434c3a6
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_null
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train bff57c2a-47e8-4e82-9c36-b36860381e3d
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train bff57c2a-47e8-4e82-9c36-b36860381e3d
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train bff57c2a-47e8-4e82-9c36-b36860381e3d
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train bff57c2a-47e8-4e82-9c36-b36860381e3d
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train bff57c2a-47e8-4e82-9c36-b36860381e3d
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_Empty
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 9efac837-b74c-4543-b0fa-56f8d625eacd
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 9efac837-b74c-4543-b0fa-56f8d625eacd
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success1
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 38ae12f8-fbe3-4422-a909-363c0f307112
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 38ae12f8-fbe3-4422-a909-363c0f307112
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 38ae12f8-fbe3-4422-a909-363c0f307112
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 38ae12f8-fbe3-4422-a909-363c0f307112
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 38ae12f8-fbe3-4422-a909-363c0f307112
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo 24f8405a-246b-4214-876c-d0498dab677d to train 38ae12f8-fbe3-4422-a909-363c0f307112
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success2
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 1c0cce9f-c353-45c2-b215-1c74cb4e3c15
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 1c0cce9f-c353-45c2-b215-1c74cb4e3c15
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 1c0cce9f-c353-45c2-b215-1c74cb4e3c15
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 1c0cce9f-c353-45c2-b215-1c74cb4e3c15
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 1c0cce9f-c353-45c2-b215-1c74cb4e3c15
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo 9d0d9611-b6ee-4cc2-8679-1e2a063c7955 to train 1c0cce9f-c353-45c2-b215-1c74cb4e3c15
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_noCargoCarriage
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 29e83a4c-1d3f-40df-8176-ce34159379df
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 29e83a4c-1d3f-40df-8176-ce34159379df
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 29e83a4c-1d3f-40df-8176-ce34159379df
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 29e83a4c-1d3f-40df-8176-ce34159379df
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 29e83a4c-1d3f-40df-8176-ce34159379df
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding cargo ec1a3ef7-1d6e-4037-9aed-8eaa25121abe to train 29e83a4c-1d3f-40df-8176-ce34159379df
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_success
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 7c0a8ab9-c836-4f25-8327-d9ef87641030
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 7c0a8ab9-c836-4f25-8327-d9ef87641030
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 7c0a8ab9-c836-4f25-8327-d9ef87641030
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 7c0a8ab9-c836-4f25-8327-d9ef87641030
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 7c0a8ab9-c836-4f25-8327-d9ef87641030
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData getPassenger method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding passenger v p to train 7c0a8ab9-c836-4f25-8327-d9ef87641030
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_noSeatsMatchTicket
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 218e2e55-e610-4d40-9fa8-6172326ea827
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 218e2e55-e610-4d40-9fa8-6172326ea827
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 218e2e55-e610-4d40-9fa8-6172326ea827
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 218e2e55-e610-4d40-9fa8-6172326ea827
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train 218e2e55-e610-4d40-9fa8-6172326ea827
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData getPassenger method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding passenger v p to train 218e2e55-e610-4d40-9fa8-6172326ea827
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheMiddle
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train ccb74ee5-81be-41d1-a36f-167da004b03a
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train ccb74ee5-81be-41d1-a36f-167da004b03a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train ccb74ee5-81be-41d1-a36f-167da004b03a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train ccb74ee5-81be-41d1-a36f-167da004b03a
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train validate train ccb74ee5-81be-41d1-a36f-167da004b03a
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_List
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train e6eb7071-a180-4ce8-9b36-fcc98ea95c3e
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someLocomotive method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someCargoCarriage method
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData somePassengerCarriage method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train e6eb7071-a180-4ce8-9b36-fcc98ea95c3e
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train e6eb7071-a180-4ce8-9b36-fcc98ea95c3e
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train e6eb7071-a180-4ce8-9b36-fcc98ea95c3e
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_null
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 25e1adb0-1f45-4178-a8ca-716b9869212b
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 25e1adb0-1f45-4178-a8ca-716b9869212b
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_emptyTrain
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train creating train 2b97d108-62f4-443a-8126-0846458d5b2a
+28.09.2021 12:03:18 [INFO ]  b.i.d.d.TestLoggerData someDriver method
+28.09.2021 12:03:18 [DEBUG]  b.i.d.train.Train adding carriage to train 2b97d108-62f4-443a-8126-0846458d5b2a
+28.09.2021 12:05:55 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_noPassengerCarriage
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train b8a61a78-94b5-4cff-aa51-0f34597dd114
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train b8a61a78-94b5-4cff-aa51-0f34597dd114
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train b8a61a78-94b5-4cff-aa51-0f34597dd114
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train b8a61a78-94b5-4cff-aa51-0f34597dd114
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train b8a61a78-94b5-4cff-aa51-0f34597dd114
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest getPassenger method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding passenger v p to train b8a61a78-94b5-4cff-aa51-0f34597dd114
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_null
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train c8020729-4344-4083-8c00-87d6455c8e78
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c8020729-4344-4083-8c00-87d6455c8e78
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c8020729-4344-4083-8c00-87d6455c8e78
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c8020729-4344-4083-8c00-87d6455c8e78
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train c8020729-4344-4083-8c00-87d6455c8e78
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_ListSuccess
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 2085a2a6-7db4-4cd8-b093-dac8fff37620
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 2085a2a6-7db4-4cd8-b093-dac8fff37620
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 2085a2a6-7db4-4cd8-b093-dac8fff37620
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 2085a2a6-7db4-4cd8-b093-dac8fff37620
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 2085a2a6-7db4-4cd8-b093-dac8fff37620
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo ad2d7a70-3df6-45ce-adff-a1ef8e50d580 to train 2085a2a6-7db4-4cd8-b093-dac8fff37620
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo 114fcc84-13b3-4250-9690-630ffeb8e974 to train 2085a2a6-7db4-4cd8-b093-dac8fff37620
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_heavyCargo
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train ea1ad715-7833-499e-8198-cb4898623e6f
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train ea1ad715-7833-499e-8198-cb4898623e6f
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train ea1ad715-7833-499e-8198-cb4898623e6f
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train ea1ad715-7833-499e-8198-cb4898623e6f
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train ea1ad715-7833-499e-8198-cb4898623e6f
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo e5ca3324-ec48-407b-a163-163f40acef0e to train ea1ad715-7833-499e-8198-cb4898623e6f
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_noLocomotive
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train c85e1d1d-5234-4623-adf5-4316c47e7516
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c85e1d1d-5234-4623-adf5-4316c47e7516
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c85e1d1d-5234-4623-adf5-4316c47e7516
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train c85e1d1d-5234-4623-adf5-4316c47e7516
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheHead
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 3424752f-8df4-49b5-9e14-f1ea44ef4ff9
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 3424752f-8df4-49b5-9e14-f1ea44ef4ff9
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 3424752f-8df4-49b5-9e14-f1ea44ef4ff9
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 3424752f-8df4-49b5-9e14-f1ea44ef4ff9
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 3424752f-8df4-49b5-9e14-f1ea44ef4ff9
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheTail
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 077b9a7e-7995-47b3-97c6-c78bdb08c795
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 077b9a7e-7995-47b3-97c6-c78bdb08c795
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 077b9a7e-7995-47b3-97c6-c78bdb08c795
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 077b9a7e-7995-47b3-97c6-c78bdb08c795
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 077b9a7e-7995-47b3-97c6-c78bdb08c795
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_ListFail
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 18b5a5d3-63e4-48c7-8a40-03be5f7f1ab4
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 18b5a5d3-63e4-48c7-8a40-03be5f7f1ab4
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 18b5a5d3-63e4-48c7-8a40-03be5f7f1ab4
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 18b5a5d3-63e4-48c7-8a40-03be5f7f1ab4
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 18b5a5d3-63e4-48c7-8a40-03be5f7f1ab4
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo e0d661c8-00ed-4a09-bf7c-9d3d34c20a80 to train 18b5a5d3-63e4-48c7-8a40-03be5f7f1ab4
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo 7b79f6f8-7109-44ca-b241-567a54ebb5a9 to train 18b5a5d3-63e4-48c7-8a40-03be5f7f1ab4
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_notEmptyTrain
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 2494083e-e477-4fc9-a378-d55ebd09478f
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 2494083e-e477-4fc9-a378-d55ebd09478f
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 2494083e-e477-4fc9-a378-d55ebd09478f
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 2494083e-e477-4fc9-a378-d55ebd09478f
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_null
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train b19a6af8-bfc7-4112-8046-be2606d64770
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train b19a6af8-bfc7-4112-8046-be2606d64770
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train b19a6af8-bfc7-4112-8046-be2606d64770
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train b19a6af8-bfc7-4112-8046-be2606d64770
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train b19a6af8-bfc7-4112-8046-be2606d64770
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_Empty
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 91434138-ad40-4eaf-a35a-53372ea0a596
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 91434138-ad40-4eaf-a35a-53372ea0a596
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success1
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 0c72ccad-7a69-4e54-9663-627491de9b2a
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 0c72ccad-7a69-4e54-9663-627491de9b2a
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 0c72ccad-7a69-4e54-9663-627491de9b2a
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 0c72ccad-7a69-4e54-9663-627491de9b2a
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 0c72ccad-7a69-4e54-9663-627491de9b2a
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo 242f2dc5-0ed5-4d77-b66d-a4ff17356ec4 to train 0c72ccad-7a69-4e54-9663-627491de9b2a
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success2
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 7d5a428b-69b8-4fa5-9fa8-aad54a4eaaee
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 7d5a428b-69b8-4fa5-9fa8-aad54a4eaaee
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 7d5a428b-69b8-4fa5-9fa8-aad54a4eaaee
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 7d5a428b-69b8-4fa5-9fa8-aad54a4eaaee
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 7d5a428b-69b8-4fa5-9fa8-aad54a4eaaee
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo 3746942c-fd42-4cf4-8de8-4ceb74fc8518 to train 7d5a428b-69b8-4fa5-9fa8-aad54a4eaaee
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_noCargoCarriage
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train e89c0fb9-08b7-472f-a4ff-11f9687cb729
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train e89c0fb9-08b7-472f-a4ff-11f9687cb729
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train e89c0fb9-08b7-472f-a4ff-11f9687cb729
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train e89c0fb9-08b7-472f-a4ff-11f9687cb729
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train e89c0fb9-08b7-472f-a4ff-11f9687cb729
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding cargo fa1db8f8-17da-4dd7-88f2-edc18f6a5f66 to train e89c0fb9-08b7-472f-a4ff-11f9687cb729
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_success
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train c1c4a3f5-bedf-4c4a-b254-99af1716711c
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c1c4a3f5-bedf-4c4a-b254-99af1716711c
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c1c4a3f5-bedf-4c4a-b254-99af1716711c
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train c1c4a3f5-bedf-4c4a-b254-99af1716711c
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train c1c4a3f5-bedf-4c4a-b254-99af1716711c
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest getPassenger method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding passenger v p to train c1c4a3f5-bedf-4c4a-b254-99af1716711c
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_noSeatsMatchTicket
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 9ecf6337-b967-4805-99a6-0227aa5293b0
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 9ecf6337-b967-4805-99a6-0227aa5293b0
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 9ecf6337-b967-4805-99a6-0227aa5293b0
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 9ecf6337-b967-4805-99a6-0227aa5293b0
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 9ecf6337-b967-4805-99a6-0227aa5293b0
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest getPassenger method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding passenger v p to train 9ecf6337-b967-4805-99a6-0227aa5293b0
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheMiddle
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 25fd67c8-c4d2-40b1-8188-69232036306d
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 25fd67c8-c4d2-40b1-8188-69232036306d
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 25fd67c8-c4d2-40b1-8188-69232036306d
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 25fd67c8-c4d2-40b1-8188-69232036306d
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train validate train 25fd67c8-c4d2-40b1-8188-69232036306d
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_List
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 793ae356-4afe-4ebb-b8e7-f790ef586969
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 793ae356-4afe-4ebb-b8e7-f790ef586969
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 793ae356-4afe-4ebb-b8e7-f790ef586969
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 793ae356-4afe-4ebb-b8e7-f790ef586969
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_null
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 8259d0e2-1feb-493c-a117-7826c0362833
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 8259d0e2-1feb-493c-a117-7826c0362833
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_emptyTrain
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train creating train 61510d7f-5163-4649-ae9d-ef1b6afcf1ef
+28.09.2021 12:05:56 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:05:56 [DEBUG]  b.i.d.train.Train adding carriage to train 61510d7f-5163-4649-ae9d-ef1b6afcf1ef
+28.09.2021 12:07:02 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_null
+28.09.2021 12:07:02 [DEBUG]  b.i.d.train.Train creating train 6a3a8c91-c761-4cc0-9e39-af6b824e1f16
+28.09.2021 12:07:02 [DEBUG]  b.i.d.train.Train adding carriage to train 6a3a8c91-c761-4cc0-9e39-af6b824e1f16
+28.09.2021 12:07:49 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_null
+28.09.2021 12:07:49 [DEBUG]  b.i.d.train.Train creating train e8eeae44-bce2-4a0b-8d67-954dd85f0e12
+28.09.2021 12:07:49 [DEBUG]  b.i.d.train.Train adding carriage to train e8eeae44-bce2-4a0b-8d67-954dd85f0e12
+28.09.2021 12:18:19 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success1
+28.09.2021 12:18:19 [DEBUG]  b.i.d.train.Train creating train 478d2ebb-652d-4fb9-b882-f724c0aeabf1
+28.09.2021 12:18:19 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:18:19 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:18:19 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@51c929ae
+28.09.2021 12:18:19 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:18:19 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@29d2d081
+28.09.2021 12:18:19 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@3a7b503d
+28.09.2021 12:18:19 [DEBUG]  b.i.d.train.Train adding carriage to train 478d2ebb-652d-4fb9-b882-f724c0aeabf1
+28.09.2021 12:18:19 [DEBUG]  b.i.d.train.Train adding carriage to train 478d2ebb-652d-4fb9-b882-f724c0aeabf1
+28.09.2021 12:18:19 [DEBUG]  b.i.d.train.Train adding carriage to train 478d2ebb-652d-4fb9-b882-f724c0aeabf1
+28.09.2021 12:18:19 [DEBUG]  b.i.d.train.Train validate train 478d2ebb-652d-4fb9-b882-f724c0aeabf1
+28.09.2021 12:18:19 [DEBUG]  b.i.d.train.Train adding cargo 497af6fe-3883-4b79-ba45-737ea5316dad to train 478d2ebb-652d-4fb9-b882-f724c0aeabf1
+28.09.2021 12:18:19 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 497af6fe-3883-4b79-ba45-737ea5316dad to carriage by.issoft.domain.carriages.CargoCarriage@3a7b503d
+28.09.2021 12:19:55 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success2
+28.09.2021 12:19:55 [DEBUG]  b.i.d.train.Train creating train 8e5746ba-1d62-4cb7-9c1a-58f245019c3b
+28.09.2021 12:19:55 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:19:55 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:19:55 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@51c929ae
+28.09.2021 12:19:55 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@40e4ea87
+28.09.2021 12:19:55 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@58783f6c
+28.09.2021 12:19:55 [DEBUG]  b.i.d.train.Train adding carriage to train 8e5746ba-1d62-4cb7-9c1a-58f245019c3b
+28.09.2021 12:19:55 [DEBUG]  b.i.d.train.Train adding carriage to train 8e5746ba-1d62-4cb7-9c1a-58f245019c3b
+28.09.2021 12:19:55 [DEBUG]  b.i.d.train.Train adding carriage to train 8e5746ba-1d62-4cb7-9c1a-58f245019c3b
+28.09.2021 12:19:55 [DEBUG]  b.i.d.train.Train validate train 8e5746ba-1d62-4cb7-9c1a-58f245019c3b
+28.09.2021 12:19:55 [DEBUG]  b.i.d.train.Train adding cargo 675e748c-626f-4154-bc22-4532fa8233b8 to train 8e5746ba-1d62-4cb7-9c1a-58f245019c3b
+28.09.2021 12:19:55 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 675e748c-626f-4154-bc22-4532fa8233b8 to carriage by.issoft.domain.carriages.CargoCarriage@40e4ea87
+28.09.2021 12:19:56 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 675e748c-626f-4154-bc22-4532fa8233b8 to carriage by.issoft.domain.carriages.CargoCarriage@58783f6c
+28.09.2021 12:28:10 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@5a45133e
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@3646a422
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 95bc6646-5dc2-4fb2-8cf1-d77600a5f117 to carriage by.issoft.domain.carriages.CargoCarriage@3646a422
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo db15f845-860e-45cd-86d9-7cc2c0541068 to carriage by.issoft.domain.carriages.CargoCarriage@3646a422
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo fe2073f3-d1ef-4bb7-b6fa-ed94342bd0ec to carriage by.issoft.domain.carriages.CargoCarriage@3646a422
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@6440112d
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo f07e98b8-15ba-4ce7-93f6-ac4193f676db to carriage by.issoft.domain.carriages.CargoCarriage@6440112d
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@231f98ef
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 9b7c0130-ef87-4344-be76-283a70293d19 to carriage by.issoft.domain.carriages.CargoCarriage@231f98ef
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@24569dba
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo a7344e36-1684-496f-9eba-c320de16d75c to carriage by.issoft.domain.carriages.CargoCarriage@24569dba
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 3103ce18-3af8-4478-b710-007a78823c57 to carriage by.issoft.domain.carriages.CargoCarriage@24569dba
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 2097a9d5-7d34-45c2-81a8-589b2c95c2b9 to carriage by.issoft.domain.carriages.CargoCarriage@24569dba
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:28:11 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@5ddeb7cb
+28.09.2021 12:28:28 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@2d0566ba
+28.09.2021 12:28:28 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:28:28 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:28:28 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:28:52 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_noPassengerCarriage
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 5be27686-5ddd-4c96-a1f9-131ba919ff85
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@3a7b503d
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@7bdf6bb7
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@1bc53649
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 5be27686-5ddd-4c96-a1f9-131ba919ff85
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 5be27686-5ddd-4c96-a1f9-131ba919ff85
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 5be27686-5ddd-4c96-a1f9-131ba919ff85
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train 5be27686-5ddd-4c96-a1f9-131ba919ff85
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest getPassenger method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding passenger v p to train 5be27686-5ddd-4c96-a1f9-131ba919ff85
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_null
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 3498a8a2-4659-4133-818f-4b02a4fce3ac
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@6754ef00
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@323e8306
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@a23a01d
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 3498a8a2-4659-4133-818f-4b02a4fce3ac
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 3498a8a2-4659-4133-818f-4b02a4fce3ac
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 3498a8a2-4659-4133-818f-4b02a4fce3ac
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train 3498a8a2-4659-4133-818f-4b02a4fce3ac
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_ListSuccess
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train a83ae79d-1681-4056-9803-487bd8ac894f
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@3301500b
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@24b52d3e
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@15deb1dc
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train a83ae79d-1681-4056-9803-487bd8ac894f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train a83ae79d-1681-4056-9803-487bd8ac894f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train a83ae79d-1681-4056-9803-487bd8ac894f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train a83ae79d-1681-4056-9803-487bd8ac894f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo c13521b2-8c1e-4383-a0d3-52da6ec6a2fd to train a83ae79d-1681-4056-9803-487bd8ac894f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo c13521b2-8c1e-4383-a0d3-52da6ec6a2fd to carriage by.issoft.domain.carriages.CargoCarriage@24b52d3e
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo c13521b2-8c1e-4383-a0d3-52da6ec6a2fd to carriage by.issoft.domain.carriages.CargoCarriage@15deb1dc
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo 7b6a741d-a4e9-4e8a-be38-b3dc8d9121bf to train a83ae79d-1681-4056-9803-487bd8ac894f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 7b6a741d-a4e9-4e8a-be38-b3dc8d9121bf to carriage by.issoft.domain.carriages.CargoCarriage@24b52d3e
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 7b6a741d-a4e9-4e8a-be38-b3dc8d9121bf to carriage by.issoft.domain.carriages.CargoCarriage@15deb1dc
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_heavyCargo
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train ba92da8a-c10a-4fbf-974f-259e7e649b60
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@70f43b45
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@26d10f2e
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@10ad20cb
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ba92da8a-c10a-4fbf-974f-259e7e649b60
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ba92da8a-c10a-4fbf-974f-259e7e649b60
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ba92da8a-c10a-4fbf-974f-259e7e649b60
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train ba92da8a-c10a-4fbf-974f-259e7e649b60
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo fdf22bb1-a569-4bc8-afd1-a55ae8ffc9ac to train ba92da8a-c10a-4fbf-974f-259e7e649b60
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo fdf22bb1-a569-4bc8-afd1-a55ae8ffc9ac to carriage by.issoft.domain.carriages.CargoCarriage@10ad20cb
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_noLocomotive
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 9964f853-8c7d-4ce2-993f-fc641e36b116
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@2c282004
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@22ee2d0
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 9964f853-8c7d-4ce2-993f-fc641e36b116
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 9964f853-8c7d-4ce2-993f-fc641e36b116
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train 9964f853-8c7d-4ce2-993f-fc641e36b116
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheHead
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train a2aff110-569e-48c9-863c-a50e995454a4
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@53bc1328
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@26f143ed
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@3c1e3314
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train a2aff110-569e-48c9-863c-a50e995454a4
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train a2aff110-569e-48c9-863c-a50e995454a4
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train a2aff110-569e-48c9-863c-a50e995454a4
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train a2aff110-569e-48c9-863c-a50e995454a4
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheTail
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 70465e3c-b991-45ab-9c18-df0c68fd2575
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@78e16155
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@54a3ab8f
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@6a1ebcff
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 70465e3c-b991-45ab-9c18-df0c68fd2575
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 70465e3c-b991-45ab-9c18-df0c68fd2575
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 70465e3c-b991-45ab-9c18-df0c68fd2575
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train 70465e3c-b991-45ab-9c18-df0c68fd2575
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_ListFail
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train ed2ab527-3be4-410c-9652-e66e088e5e1c
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@c20be82
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@13c612bd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@3ef41c66
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ed2ab527-3be4-410c-9652-e66e088e5e1c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ed2ab527-3be4-410c-9652-e66e088e5e1c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ed2ab527-3be4-410c-9652-e66e088e5e1c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train ed2ab527-3be4-410c-9652-e66e088e5e1c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo d1ae852e-3f9f-4802-b57f-97e4da6728d6 to train ed2ab527-3be4-410c-9652-e66e088e5e1c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo d1ae852e-3f9f-4802-b57f-97e4da6728d6 to carriage by.issoft.domain.carriages.CargoCarriage@13c612bd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo d1ae852e-3f9f-4802-b57f-97e4da6728d6 to carriage by.issoft.domain.carriages.CargoCarriage@3ef41c66
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo 3d8cc30a-ed3b-42cf-acd8-3b6cc93a408b to train ed2ab527-3be4-410c-9652-e66e088e5e1c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 3d8cc30a-ed3b-42cf-acd8-3b6cc93a408b to carriage by.issoft.domain.carriages.CargoCarriage@13c612bd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 3d8cc30a-ed3b-42cf-acd8-3b6cc93a408b to carriage by.issoft.domain.carriages.CargoCarriage@3ef41c66
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_notEmptyTrain
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 7e0c44bb-6f22-4d26-82bf-a4bf1a3b1224
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@41de5768
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@5f577419
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@28fa700e
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 7e0c44bb-6f22-4d26-82bf-a4bf1a3b1224
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 7e0c44bb-6f22-4d26-82bf-a4bf1a3b1224
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 7e0c44bb-6f22-4d26-82bf-a4bf1a3b1224
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_null
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train fce7c55a-1488-428c-92b6-99102c040edd
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@61a5b4ae
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@3a71c100
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@5b69fd74
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train fce7c55a-1488-428c-92b6-99102c040edd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train fce7c55a-1488-428c-92b6-99102c040edd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train fce7c55a-1488-428c-92b6-99102c040edd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train fce7c55a-1488-428c-92b6-99102c040edd
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_Empty
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train a8edb576-1a87-4a43-814e-eabd11e481bb
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train a8edb576-1a87-4a43-814e-eabd11e481bb
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success1
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train e89ccf45-ce56-41e9-8fab-b87d30f8ed2f
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@63a5e46c
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@7e8e8651
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@49ef32e0
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train e89ccf45-ce56-41e9-8fab-b87d30f8ed2f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train e89ccf45-ce56-41e9-8fab-b87d30f8ed2f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train e89ccf45-ce56-41e9-8fab-b87d30f8ed2f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train e89ccf45-ce56-41e9-8fab-b87d30f8ed2f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo 0e790cfa-b9c2-46a0-86f3-6838912ca7cf to train e89ccf45-ce56-41e9-8fab-b87d30f8ed2f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 0e790cfa-b9c2-46a0-86f3-6838912ca7cf to carriage by.issoft.domain.carriages.CargoCarriage@49ef32e0
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_success2
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train e127d4fa-5ea1-41a8-b711-74b59a5b140f
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@6bd51ed8
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@61e3a1fd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@51abf713
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train e127d4fa-5ea1-41a8-b711-74b59a5b140f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train e127d4fa-5ea1-41a8-b711-74b59a5b140f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train e127d4fa-5ea1-41a8-b711-74b59a5b140f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train e127d4fa-5ea1-41a8-b711-74b59a5b140f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo 46970df4-1afe-4639-8e76-515c6eb43529 to train e127d4fa-5ea1-41a8-b711-74b59a5b140f
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 46970df4-1afe-4639-8e76-515c6eb43529 to carriage by.issoft.domain.carriages.CargoCarriage@61e3a1fd
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 46970df4-1afe-4639-8e76-515c6eb43529 to carriage by.issoft.domain.carriages.CargoCarriage@51abf713
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCargo_noCargoCarriage
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 980bec46-4241-4d1b-8ae4-ab7122333ee3
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@4d4d48a6
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@315df4bb
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@3fc08eec
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 980bec46-4241-4d1b-8ae4-ab7122333ee3
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 980bec46-4241-4d1b-8ae4-ab7122333ee3
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 980bec46-4241-4d1b-8ae4-ab7122333ee3
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train 980bec46-4241-4d1b-8ae4-ab7122333ee3
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding cargo c9710c64-39bc-4049-8d36-e7ed0e0b2e59 to train 980bec46-4241-4d1b-8ae4-ab7122333ee3
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_success
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 9fe435ac-0bf4-44b0-9cca-ad6acfa259ad
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@26f3d90c
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@3c49fab6
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@515f4131
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 9fe435ac-0bf4-44b0-9cca-ad6acfa259ad
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 9fe435ac-0bf4-44b0-9cca-ad6acfa259ad
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 9fe435ac-0bf4-44b0-9cca-ad6acfa259ad
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train 9fe435ac-0bf4-44b0-9cca-ad6acfa259ad
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest getPassenger method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding passenger v p to train 9fe435ac-0bf4-44b0-9cca-ad6acfa259ad
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding passenger v p to carriage by.issoft.domain.carriages.PassengerCarriage@3c49fab6
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addPassenger_noSeatsMatchTicket
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train f8b76e2e-3608-4841-8748-50c7076564e0
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@4d666b41
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@6594402a
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@30f4b1a6
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train f8b76e2e-3608-4841-8748-50c7076564e0
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train f8b76e2e-3608-4841-8748-50c7076564e0
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train f8b76e2e-3608-4841-8748-50c7076564e0
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train f8b76e2e-3608-4841-8748-50c7076564e0
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest getPassenger method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding passenger v p to train f8b76e2e-3608-4841-8748-50c7076564e0
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage adding passenger v p to carriage by.issoft.domain.carriages.PassengerCarriage@6594402a
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage there is no seat matches ticket, cant place the passenger
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest validate_LocomotiveInTheMiddle
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train ac5f63d8-d9ec-432d-a064-ba8c712cfe58
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@79c3f01f
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@350b3a17
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@38600b
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ac5f63d8-d9ec-432d-a064-ba8c712cfe58
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ac5f63d8-d9ec-432d-a064-ba8c712cfe58
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train ac5f63d8-d9ec-432d-a064-ba8c712cfe58
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train validate train ac5f63d8-d9ec-432d-a064-ba8c712cfe58
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_List
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 5fd4d28b-4a06-413f-b285-4f0f1a9e321c
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someLocomotive method
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@1ea9f009
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someCargoCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@5d52e3ef
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest somePassengerCarriage method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@5298dead
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 5fd4d28b-4a06-413f-b285-4f0f1a9e321c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 5fd4d28b-4a06-413f-b285-4f0f1a9e321c
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 5fd4d28b-4a06-413f-b285-4f0f1a9e321c
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_null
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 42790e03-8278-4055-aefc-9c8c2f3b3543
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 42790e03-8278-4055-aefc-9c8c2f3b3543
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest --------------------------------
+
+class by.issoft.domain.train.TrainTest addCarriage_emptyTrain
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train creating train 569e614e-6eec-4963-bf55-fab7ff7ba15d
+28.09.2021 12:28:53 [INFO ]  b.i.d.t.TrainTest someDriver method
+28.09.2021 12:28:53 [DEBUG]  b.i.d.c.Locomotive creating Locomotive by.issoft.domain.carriages.Locomotive@4e406694
+28.09.2021 12:28:53 [DEBUG]  b.i.d.train.Train adding carriage to train 569e614e-6eec-4963-bf55-fab7ff7ba15d
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@21680803
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage adding passenger v p to carriage by.issoft.domain.carriages.PassengerCarriage@21680803
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is no seat matches ticket, cant place the passenger
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@7674a051
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage adding passenger v p to carriage by.issoft.domain.carriages.PassengerCarriage@7674a051
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@3a45c42a
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is no seat matches ticket, cant place the passenger
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@27a0a5a2
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:29:55 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:32:35 [INFO ]  b.i.d.c.CargoCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.CargoCarriageTest addCargo_null
+28.09.2021 12:32:35 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@7b36aa0c
+28.09.2021 12:32:35 [INFO ]  b.i.d.c.CargoCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.CargoCarriageTest addCargoList_heavierThanCapacity
+28.09.2021 12:32:35 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@f0c8a99
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo c600327b-b82f-4ea2-b03a-ae7e42407af4 to carriage by.issoft.domain.carriages.CargoCarriage@f0c8a99
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 47e98a3e-2870-4275-b34d-13996563f011 to carriage by.issoft.domain.carriages.CargoCarriage@f0c8a99
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 3e91a4d9-d689-43b9-a468-a3d33aef7518 to carriage by.issoft.domain.carriages.CargoCarriage@f0c8a99
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:32:36 [INFO ]  b.i.d.c.CargoCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.CargoCarriageTest addCargo_heavierThanCapacity
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@2b40ff9c
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo f5ab4bfb-6991-4557-9054-2ff51b47189f to carriage by.issoft.domain.carriages.CargoCarriage@2b40ff9c
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage cargo was not added
+28.09.2021 12:32:36 [INFO ]  b.i.d.c.CargoCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.CargoCarriageTest addCargo_success
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@4d1c005e
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo d1106091-483b-4125-acf5-5449eeea6c84 to carriage by.issoft.domain.carriages.CargoCarriage@4d1c005e
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:32:36 [INFO ]  b.i.d.c.CargoCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.CargoCarriageTest addCargoList_success
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@247310d0
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 18a2d02c-4390-4d96-9b1a-1e058e345e26 to carriage by.issoft.domain.carriages.CargoCarriage@247310d0
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 961ef490-03d7-4fa3-99a2-284a8421a628 to carriage by.issoft.domain.carriages.CargoCarriage@247310d0
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage adding cargo 13753395-b421-45f2-b786-e1d885ec8e14 to carriage by.issoft.domain.carriages.CargoCarriage@247310d0
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage cargo added
+28.09.2021 12:32:36 [INFO ]  b.i.d.c.CargoCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.CargoCarriageTest addCargoList_hasNullCargo
+28.09.2021 12:32:36 [DEBUG]  b.i.d.c.CargoCarriage creating CargoCarriage by.issoft.domain.carriages.CargoCarriage@1033576a
+28.09.2021 12:34:16 [INFO ]  b.i.d.c.PassengerCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.PassengerCarriageTest addPassenger_ticketNotMatches
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@2c444798
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage adding passenger v p to carriage by.issoft.domain.carriages.PassengerCarriage@2c444798
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is no seat matches ticket, cant place the passenger
+28.09.2021 12:34:16 [INFO ]  b.i.d.c.PassengerCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.PassengerCarriageTest addPassenger_ticketMatches
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@3301500b
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage adding passenger v p to carriage by.issoft.domain.carriages.PassengerCarriage@3301500b
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:34:16 [INFO ]  b.i.d.c.PassengerCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.PassengerCarriageTest addPassengerList_ticketNotMatches
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@106faf11
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is no seat matches ticket, cant place the passenger
+28.09.2021 12:34:16 [INFO ]  b.i.d.c.PassengerCarriageTest --------------------------------
+
+class by.issoft.domain.carriages.PassengerCarriageTest addPassengerList_ticketMatches
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage creating PassengerCarriage by.issoft.domain.carriages.PassengerCarriage@7dd712e8
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket
+28.09.2021 12:34:16 [DEBUG]  b.i.d.c.CargoCarriage there is seat matches ticket

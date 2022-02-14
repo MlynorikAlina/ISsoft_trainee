@@ -1,0 +1,5 @@
+package by.issoft.domain.cargo;
+
+public enum CargoType {
+    FOOD, ANIMALS, LIQUID, VEHICLE, MINERALS, CHEMICALS, FRAGILE, TOXIC, DANGER_MATERIALS, OTHER, UNDEFINED
+}

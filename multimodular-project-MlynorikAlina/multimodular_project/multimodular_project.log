@@ -1,0 +1,105 @@
+21.08.2021 22:07:20 [DEBUG]  Runner - 10 <= 34 changing rightIndex = 10
+21.08.2021 22:07:20 [DEBUG]  Runner - 10 <= 18 changing rightIndex = 5
+21.08.2021 22:07:20 [DEBUG]  Runner - 10 <= 14 changing rightIndex = 2
+21.08.2021 22:07:20 [DEBUG]  Runner - 10 <= 13 changing rightIndex = 1
+21.08.2021 22:07:20 [DEBUG]  Runner - 10 <= 12 changing rightIndex = 0
+21.08.2021 22:22:51 [DEBUG]  Utils array: [4, 18, 18, 23, 27, 30, 35, 37, 45, 45, 61, 66, 68, 68, 71, 73, 81, 84, 84, 91]
+21.08.2021 22:22:51 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:22:51 [DEBUG]  Utils 10 <= 61 changing rightIndex = 10
+21.08.2021 22:22:51 [DEBUG]  Utils 10 <= 30 changing rightIndex = 5
+21.08.2021 22:22:51 [DEBUG]  Utils 10 <= 18 changing rightIndex = 2
+21.08.2021 22:22:51 [DEBUG]  Utils 10 <= 18 changing rightIndex = 1
+21.08.2021 22:22:51 [DEBUG]  Utils 10 > 4 changing leftIndex = 1
+21.08.2021 22:22:51 [DEBUG]  Utils 10 not found. program returns -2
+21.08.2021 22:25:26 [DEBUG]  Utils array: [4, 9, 18, 20, 24, 30, 35, 43, 44, 49, 51, 55, 56, 63, 67, 76, 77, 80, 81, 89]
+21.08.2021 22:25:26 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:25:26 [DEBUG]  Utils 10 <= 51 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:25:26 [DEBUG]  Utils 10 <= 30 changing rightIndex. leftIndex = 0, rightIndex = 5
+21.08.2021 22:25:26 [DEBUG]  Utils 10 <= 18 changing rightIndex. leftIndex = 0, rightIndex = 2
+21.08.2021 22:25:26 [DEBUG]  Utils 10 > 9 changing leftIndex. leftIndex = 2, rightIndex = 2
+21.08.2021 22:25:26 [DEBUG]  Utils 10 not found. program returns -3
+21.08.2021 22:26:32 [DEBUG]  Utils array: [10, 10, 10, 10, 10]
+21.08.2021 22:26:32 [DEBUG]  Utils leftIndex = 0, rightIndex = 5
+21.08.2021 22:26:32 [DEBUG]  Utils 10 <= 10 changing rightIndex. leftIndex = 0, rightIndex = 2
+21.08.2021 22:26:32 [DEBUG]  Utils 10 <= 10 changing rightIndex. leftIndex = 0, rightIndex = 1
+21.08.2021 22:26:32 [DEBUG]  Utils 10 <= 10 changing rightIndex. leftIndex = 0, rightIndex = 0
+21.08.2021 22:26:32 [DEBUG]  Utils 10 found at 0
+21.08.2021 22:29:15 [DEBUG]  Utils array: [1, 13, 19, 20, 31, 32, 34, 40, 50, 66, 67, 72, 74, 78, 79, 83, 85, 91, 92, 97]
+21.08.2021 22:29:15 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:29:15 [DEBUG]  Utils 10 <= 67 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:29:15 [DEBUG]  Utils 10 <= 32 changing rightIndex. leftIndex = 0, rightIndex = 5
+21.08.2021 22:29:15 [DEBUG]  Utils 10 <= 19 changing rightIndex. leftIndex = 0, rightIndex = 2
+21.08.2021 22:29:15 [DEBUG]  Utils 10 <= 13 changing rightIndex. leftIndex = 0, rightIndex = 1
+21.08.2021 22:29:15 [DEBUG]  Utils 10 > 1 changing leftIndex. leftIndex = 1, rightIndex = 1
+21.08.2021 22:29:15 [DEBUG]  Utils 10 not found. program returns -2
+21.08.2021 22:29:28 [DEBUG]  Utils array: [6, 12, 17, 20, 26, 29, 33, 43, 49, 54, 55, 55, 56, 60, 65, 72, 88, 88, 89, 89]
+21.08.2021 22:29:28 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:29:28 [DEBUG]  Utils 10 <= 55 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:29:28 [DEBUG]  Utils 10 <= 29 changing rightIndex. leftIndex = 0, rightIndex = 5
+21.08.2021 22:29:28 [DEBUG]  Utils 10 <= 17 changing rightIndex. leftIndex = 0, rightIndex = 2
+21.08.2021 22:29:28 [DEBUG]  Utils 10 <= 12 changing rightIndex. leftIndex = 0, rightIndex = 1
+21.08.2021 22:29:28 [DEBUG]  Utils 10 > 6 changing leftIndex. leftIndex = 1, rightIndex = 1
+21.08.2021 22:29:28 [DEBUG]  Utils 10 not found. program returns -2
+21.08.2021 22:29:37 [DEBUG]  Utils array: [3, 4, 5, 13, 13, 20, 25, 27, 29, 41, 44, 48, 58, 63, 64, 71, 79, 81, 84, 87]
+21.08.2021 22:29:37 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:29:37 [DEBUG]  Utils 10 <= 44 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:29:37 [DEBUG]  Utils 10 <= 20 changing rightIndex. leftIndex = 0, rightIndex = 5
+21.08.2021 22:29:37 [DEBUG]  Utils 10 > 5 changing leftIndex. leftIndex = 3, rightIndex = 5
+21.08.2021 22:29:37 [DEBUG]  Utils 10 <= 13 changing rightIndex. leftIndex = 3, rightIndex = 4
+21.08.2021 22:29:37 [DEBUG]  Utils 10 <= 13 changing rightIndex. leftIndex = 3, rightIndex = 3
+21.08.2021 22:29:37 [DEBUG]  Utils 10 not found. program returns -4
+21.08.2021 22:29:46 [DEBUG]  Utils array: [2, 3, 17, 18, 25, 33, 34, 36, 40, 46, 49, 54, 60, 74, 75, 78, 79, 79, 88, 89]
+21.08.2021 22:29:46 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:29:46 [DEBUG]  Utils 10 <= 49 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:29:46 [DEBUG]  Utils 10 <= 33 changing rightIndex. leftIndex = 0, rightIndex = 5
+21.08.2021 22:29:46 [DEBUG]  Utils 10 <= 17 changing rightIndex. leftIndex = 0, rightIndex = 2
+21.08.2021 22:29:46 [DEBUG]  Utils 10 > 3 changing leftIndex. leftIndex = 2, rightIndex = 2
+21.08.2021 22:29:46 [DEBUG]  Utils 10 not found. program returns -3
+21.08.2021 22:29:54 [DEBUG]  Utils array: [2, 3, 5, 16, 18, 20, 23, 28, 36, 39, 39, 39, 52, 53, 56, 61, 67, 78, 92, 97]
+21.08.2021 22:29:54 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:29:54 [DEBUG]  Utils 10 <= 39 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:29:54 [DEBUG]  Utils 10 <= 20 changing rightIndex. leftIndex = 0, rightIndex = 5
+21.08.2021 22:29:54 [DEBUG]  Utils 10 > 5 changing leftIndex. leftIndex = 3, rightIndex = 5
+21.08.2021 22:29:54 [DEBUG]  Utils 10 <= 18 changing rightIndex. leftIndex = 3, rightIndex = 4
+21.08.2021 22:29:54 [DEBUG]  Utils 10 <= 16 changing rightIndex. leftIndex = 3, rightIndex = 3
+21.08.2021 22:29:54 [DEBUG]  Utils 10 not found. program returns -4
+21.08.2021 22:30:12 [DEBUG]  Utils array: [0, 1, 4, 4, 5, 8, 9, 9, 10, 13, 14, 14, 16, 16, 18, 18, 18, 18, 19, 19]
+21.08.2021 22:30:12 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:30:12 [DEBUG]  Utils 10 <= 14 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:30:12 [DEBUG]  Utils 10 > 8 changing leftIndex. leftIndex = 6, rightIndex = 10
+21.08.2021 22:30:12 [DEBUG]  Utils 10 found at 8
+21.08.2021 22:30:20 [DEBUG]  Utils array: [0, 0, 1, 1, 4, 5, 6, 7, 8, 9, 9, 11, 15, 15, 17, 17, 18, 18, 19, 19]
+21.08.2021 22:30:20 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:30:20 [DEBUG]  Utils 10 > 9 changing leftIndex. leftIndex = 11, rightIndex = 20
+21.08.2021 22:30:20 [DEBUG]  Utils 10 <= 17 changing rightIndex. leftIndex = 11, rightIndex = 15
+21.08.2021 22:30:20 [DEBUG]  Utils 10 <= 15 changing rightIndex. leftIndex = 11, rightIndex = 13
+21.08.2021 22:30:20 [DEBUG]  Utils 10 <= 15 changing rightIndex. leftIndex = 11, rightIndex = 12
+21.08.2021 22:30:20 [DEBUG]  Utils 10 <= 11 changing rightIndex. leftIndex = 11, rightIndex = 11
+21.08.2021 22:30:20 [DEBUG]  Utils 10 not found. program returns -12
+21.08.2021 22:30:28 [DEBUG]  Utils array: [0, 0, 0, 3, 3, 4, 4, 4, 5, 5, 6, 10, 11, 11, 11, 12, 12, 14, 15, 19]
+21.08.2021 22:30:28 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:30:28 [DEBUG]  Utils 10 > 6 changing leftIndex. leftIndex = 11, rightIndex = 20
+21.08.2021 22:30:28 [DEBUG]  Utils 10 <= 12 changing rightIndex. leftIndex = 11, rightIndex = 15
+21.08.2021 22:30:28 [DEBUG]  Utils 10 <= 11 changing rightIndex. leftIndex = 11, rightIndex = 13
+21.08.2021 22:30:28 [DEBUG]  Utils 10 <= 11 changing rightIndex. leftIndex = 11, rightIndex = 12
+21.08.2021 22:30:28 [DEBUG]  Utils 10 found at 11
+------------------------------
+
+21.08.2021 22:36:32 [DEBUG]  Utils array: [0, 0, 1, 1, 1, 2, 2, 3, 3, 6, 7, 8, 8, 11, 12, 12, 14, 15, 16, 18]
+21.08.2021 22:36:32 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:36:32 [DEBUG]  Utils 10 > 7 changing leftIndex. leftIndex = 11, rightIndex = 20
+21.08.2021 22:36:32 [DEBUG]  Utils 10 <= 12 changing rightIndex. leftIndex = 11, rightIndex = 15
+21.08.2021 22:36:32 [DEBUG]  Utils 10 <= 11 changing rightIndex. leftIndex = 11, rightIndex = 13
+21.08.2021 22:36:32 [DEBUG]  Utils 10 > 8 changing leftIndex. leftIndex = 13, rightIndex = 13
+21.08.2021 22:36:32 [DEBUG]  Utils 10 not found. program returns -14
+21.08.2021 22:37:29 [DEBUG]  Utils 
+------------------------------
+
+21.08.2021 22:37:29 [DEBUG]  Utils array: [0, 2, 3, 4, 7, 8, 9, 11, 12, 13, 13, 14, 14, 15, 17, 17, 17, 17, 18, 18]
+21.08.2021 22:37:29 [DEBUG]  Utils leftIndex = 0, rightIndex = 20
+21.08.2021 22:37:29 [DEBUG]  Utils 10 <= 13 changing rightIndex. leftIndex = 0, rightIndex = 10
+21.08.2021 22:37:29 [DEBUG]  Utils 10 > 8 changing leftIndex. leftIndex = 6, rightIndex = 10
+21.08.2021 22:37:29 [DEBUG]  Utils 10 <= 12 changing rightIndex. leftIndex = 6, rightIndex = 8
+21.08.2021 22:37:29 [DEBUG]  Utils 10 <= 11 changing rightIndex. leftIndex = 6, rightIndex = 7
+21.08.2021 22:37:29 [DEBUG]  Utils 10 > 9 changing leftIndex. leftIndex = 7, rightIndex = 7
+21.08.2021 22:37:29 [DEBUG]  Utils 10 not found. program returns -8
